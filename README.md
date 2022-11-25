@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hola, soy Sergio 👋
 
+- 🌱 Actualmente estoy aprendiendo desarrollo en Android, entornos de desarrollo, programación de servicios y procesos y desarrollo de interfaces en DAM. A nivel personal estoy enfocándome en el desarrollo web y tras haber aprendido HTML y CSS (y Bootstrap), estoy aprendiendo JavaScript.
+
+- 📚 Actualmentte domino: Java, Python, HTML, CSS, Bootstrap.
+
+- 📫 Puedes contactarme en mi correo electrónico 👉 sergio3vd@gmail.com
 <!--
-**svigild/svigild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
