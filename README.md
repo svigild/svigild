@@ -1,5 +1,5 @@
-<h1> Hi, I'm Sergio </h1>
-<h2>Cross-platform application development student</h2>
+<h1> Hi, I'm Sergio, a cross-platform application development student </h1>
+
 📚 My current knowledge is:
 <ul>
   <li>Web development with HTML, CSS (Sass and Bootstrap) and JavaScript</li>
