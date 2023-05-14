@@ -2,7 +2,7 @@
 
 📚 My current knowledge is:
 <ul>
-  <li>Web development with HTML, CSS (Sass and Bootstrap) and JavaScript</li>
+  <li>Web development with HTML, CSS (Sass and Bootstrap), JavaScript and learning Angular</li>
   <li>Android application development (Java)</li>
   <li>Java interface development</li>
   <li>Scheduling services and processes</li>
