@@ -1,9 +1,9 @@
-<h1> Hi, I'm Sergio, a cross-platform application development student </h1>
+<h1> Hola, soy Sergio, un estudiante de Desarrollo de Aplicaciones Multiplataforma </h1>
 
-📚 My current knowledge is:
+📚 Mis conocimientos actuales son:
 <ul>
-  <li>Web development with HTML, CSS (Sass and Bootstrap), JavaScript and learning Angular</li>
-  <li>Android application development (Java)</li>
-  <li>Java interface development</li>
-  <li>Scheduling services and processes</li>
+  <li>Desarrollo web con HTML, CSS (Sass and Bootstrap), JavaScript y aprendiendo Angular y React</li>
+  <li>Desarrollo de aplicaciones para Android (Java)</li>
+  <li>Desarrollo de interfaces en Java y .NET</li>
+  <li>Programación de servicios y procesos</li>
 </ul>
