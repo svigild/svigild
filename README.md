@@ -6,7 +6,7 @@
 <h3 align="left">📫 Contáctame en sergio3vd@gmail.com o en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sergio-vigil-d%c3%adaz-843a3623b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergio-vigil-d%c3%adaz-843a3623b/" height="30" width="40" /></a>
-</p> 
+</p>  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
