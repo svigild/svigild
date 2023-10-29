@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Sergio</h1>
-<h3 align="center">Un desarrollador front-end</h3>      
+<h3 align="center">Un desarrollador front-end</h3>       
    
 - 🌱 Actualmente estoy estudiando un Grado Superior en **Desarrollo de Aplicaciones Multiplataforma**                  
    
