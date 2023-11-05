@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Sergio</h1>   
 <h3 align="center">Un desarrollador front-end</h3>       
     
-- 🌱 Actualmente estoy estudiando un Grado Superior en **Desarrollo de Aplicaciones Multiplataforma**                   
+- 🌱 Actualmente estoy estudiando un Grado Superior en **Desarrollo de Aplicaciones Multiplataforma**                    
    
 <h3 align="left">📫 Contáctame en sergio3vd@gmail.com o en:</h3>        
 <p align="left">
