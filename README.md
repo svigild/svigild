@@ -5,7 +5,7 @@
 - I'm currently studying a Higher Degree in Multiplatform Application Development 📚
 
 ## Contact me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sergio3vd@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio3vd@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-nombre](https://www.linkedin.com/in/sergio-vigil-d%C3%ADaz/))
 
 ## My stack
