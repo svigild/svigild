@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sergio 👋 </h1>            
 
-## About me  
+## About me   
 - I'm a multiplatform developer with a focus on web development and mobile app development 💻📱    
 - I'm currently studying a Higher Degree in Multiplatform Application Development 📚 
 
