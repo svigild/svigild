@@ -2,7 +2,7 @@
       
 ## About me     
 - I'm a multiplatform developer with a focus on web development and mobile app development 💻📱     
-- I'm currently studying a Higher Degree in Multiplatform Application Development 📚  
+- I'm currently studying a Higher Degree in Multiplatform Application Development 📚   
 
 ## Contact me  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio3vd@gmail.com)
