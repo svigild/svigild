@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sergio 👋  </h1>                     
+<h1 align="center">Hi, I'm Sergio 👋  </h1>                      
               
 ## About me          
 - I'm a multiplatform developer with a focus on web development and mobile app development 💻📱       
