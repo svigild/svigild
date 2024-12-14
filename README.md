@@ -4,7 +4,7 @@ I’m passionate about building scalable and efficient applications. Here you'll
 
 🔧 Technologies I work with:
 - JavaScript, TypeScript, Angular
-- Python, C#
+- Python, C#, Java
 - Mobile Development (Java)
 - MySQL, MongoDB
 - Spring Boot
