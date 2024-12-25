@@ -2,7 +2,7 @@
 
 I’m passionate about building scalable and efficient applications. Here you'll find a collection of my projects, experiments, and contributions.
 
-🔧 Technologies I work with:
+🔧 Technologies I work with: 
 - JavaScript, TypeScript, Angular
 - Python, C#, Java
 - Mobile Development (Java)
