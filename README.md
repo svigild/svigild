@@ -13,6 +13,6 @@ I’m passionate about building scalable and efficient applications. Here you'll
 
 Feel free to explore my repositories and connect with me!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sergio-vigil-d%C3%ADaz/) | [Portfolio](https://sergiovd.netlify.app/)
+🔗 [LinkedIn](https://www.linkedin.com/in/sergio-vigil-d%C3%ADaz/) | [Portfolio](https://sergiovigil.netlify.app/)
 
 
