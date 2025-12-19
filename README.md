@@ -45,7 +45,7 @@ Desarrollador full stack con sólida formación en **C#, Java y seguridad inform
 ### 📫 Contacto
 
 * 📧 **Email:** [sergio3vd@gmail.com](mailto:sergio3vd@gmail.com)
-* 🔗 **LinkedIn:** [[Tu Perfil de LinkedIn] ](https://www.linkedin.com/in/sergio-vigil-d%C3%ADaz/)
+* 🔗 **LinkedIn:** [Mi Perfil ](https://www.linkedin.com/in/sergio-vigil-d%C3%ADaz/)
 * 🌍 **Portfolio:** https://sergiovigil.netlify.app/
 
 ---
