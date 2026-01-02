@@ -1,6 +1,6 @@
 # Hola, soy Sergio Vigil 👋
 
-### Full Stack Developer | C# & Java | Especialista en Ciberseguridad 
+### Full Stack Developer | C# & Java | Especialista en Ciberseguridad  
 
 Desarrollador full stack con sólida formación en **C#, Java y seguridad informática**. Cuento con experiencia práctica en el desarrollo de aplicaciones multiplataforma y una fuerte pasión por la **optimización de código** y la creación de **arquitecturas seguras**.
 
