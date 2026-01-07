@@ -1,53 +1,45 @@
-# Hola, soy Sergio Vigil 👋
+# Sergio Vigil Diaz
+## Full Stack Developer | C# and Java | Cybersecurity Specialist
 
-### Full Stack Developer | C# & Java | Especialista en Ciberseguridad  
+Professional summary:
+Full Stack Developer with a strong technical background in C# and Java, specialized in Cybersecurity. Experienced in developing multi-platform applications with a focus on code optimization, system auditing, and the implementation of secure architectures. Currently completing a dual degree in Multiplatform (DAM) and Web Application Development (DAW).
 
-Desarrollador full stack con sólida formación en **C#, Java y seguridad informática**. Cuento con experiencia práctica en el desarrollo de aplicaciones multiplataforma y una fuerte pasión por la **optimización de código** y la creación de **arquitecturas seguras**.
+Education and Certifications:
+- Higher Technician in Web Application Development (DAW) | CIFP La Laboral (In progress)
+- Higher Technician in Multiplatform Application Development (DAM) | IES Juan Jose Calvo
+- Level 3 Professional Certificate in Cybersecurity | ASATA Formacion
+- Technical English: B2 Level
 
----
- 
-### 🚀 Sobre mí
+Technical Stack:
+- Languages: C#, Java, Python
+- Backend Development: .NET 9, Spring Boot 3.x
+- Frontend Development: Angular, React, Tailwind CSS
+- Databases and Tools: PostgreSQL, MySQL, SQL Server, Docker, Git
+- Cybersecurity: Vulnerability analysis, system auditing, and secure protocol implementation
 
-* 📍 **Pola de Siero, Asturias**.
-* 🎓 **Doble Titulación:** Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y finalizando Desarrollo de Aplicaciones Web (DAW).
-* 🛡️ **Especialista certificado:** Poseo un Certificado de Nivel 3 en Seguridad Informática.
-* 🌍 **Idiomas:** Español (Nativo) e Inglés B2 Técnico.
-* ⚙️ Me enfoco en aplicar soluciones eficientes y protocolos de seguridad desde la fase de desarrollo.
+Key Projects:
 
----
+SentinelStack
+A cross-platform security orchestrator designed to bridge system-level auditing with high-level visualization. It utilizes a .NET scanning agent that communicates with a centralized Java Spring Boot API. The project features a real-time dashboard built with Angular and WebSockets to monitor system vulnerabilities.
 
-### 🛠️ Stack Tecnológico
+GameHub
+A full-stack social platform developed for video game tournament management. Built using Spring Boot for the backend, Tailwind CSS for the frontend, and MySQL for persistence.
 
-* **Lenguajes:** Java, C#, Python.
-* **Backend:** .NET, Spring Boot.
-* **Frontend:** Angular, React, Tailwind CSS.
-* **Herramientas & DB:** Docker, Git, SQL, MySQL.
-* **Seguridad:** Auditoría de sistemas, análisis de vulnerabilidades e implementación de protocolos seguros.
+SergiDex
+A Single Page Application (SPA) focused on efficient data management and REST API consumption, developed with Angular.
 
----
+Professional Experience:
 
-### 🌟 Proyectos Destacados
+Nea Master | C# Developer (Internship)
+- Maintenance and development of desktop applications using .NET and C#.
+- SQL query optimization and legacy code refactoring to improve system performance.
+- Collaboration in the integration of management modules.
 
-* **GameHub** : Plataforma social Full Stack para gestión de torneos de videojuegos.
-    * *Tecnologías:* Spring Boot, Tailwind CSS, MySQL.
-* **SergiDex (SPA)** : Aplicación web enfocada en la gestión y consulta eficiente de datos de Pokémon.
-    * *Tecnologías:* Angular y consumo de API REST.
+Nea Master | Cybersecurity Technician (Internship)
+- Performed system audits and vulnerability assessments.
+- Implemented security protocols and managed incident documentation.
 
----
-
-### 💼 Experiencia Relevante
-
-* **Desarrollador C# (Prácticas) en Nea Master:** Desarrollo y mantenimiento de apps .NET, optimización de consultas SQL y refactorización de código legado.
-* **Técnico en Seguridad Informatica (Prácticas) en Nea Master:** Auditorías de sistemas, análisis de vulnerabilidades y documentación de incidentes.
-
----
-
-### 📫 Contacto
-
-* 📧 **Email:** [sergio3vd@gmail.com](mailto:sergio3vd@gmail.com)
-* 🔗 **LinkedIn:** [Mi Perfil ](https://www.linkedin.com/in/sergio-vigil-d%C3%ADaz/)
-* 🌍 **Portfolio:** https://sergiovigil.netlify.app/
-
----
-
-
+Contact and Links:
+- Email: sergio3vd@gmail.com
+- LinkedIn: linkedin.com/in/sergio-vigil-diaz
+- Portfolio: sergiovigil.netlify.app
