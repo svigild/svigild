@@ -1,4 +1,4 @@
-# Sergio Vigil Diaz
+# Sergio Vigil Diaz 
 ## Full Stack Developer | C# and Java | Cybersecurity Specialist    
  
 Professional summary: 
