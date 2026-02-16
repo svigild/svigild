@@ -3,7 +3,7 @@
    
 Professional summary: 
 Full Stack Developer with a strong technical background in C# and Java, specialized in Cybersecurity. Experienced in developing multi-platform applications with a focus on code optimization, system auditing, and the implementation of secure architectures. Currently completing a dual degree in Multiplatform (DAM) and Web Application Development (DAW). 
-
+ 
 Education and Certifications:
 - Higher Technician in Web Application Development (DAW) | CIFP La Laboral (In progress)
 - Higher Technician in Multiplatform Application Development (DAM) | IES Juan Jose Calvo
