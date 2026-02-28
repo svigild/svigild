@@ -1,5 +1,5 @@
 # Sergio Vigil Diaz  
-## Full Stack Developer | C# and Java | Cybersecurity Specialist                 
+## Full Stack Developer | C# and Java | Cybersecurity Specialist                  
      
 Professional summary:  
 Full Stack Developer with a strong technical background in C# and Java, specialized in Cybersecurity. Experienced in developing multi-platform applications with a focus on code optimization, system auditing, and the implementation of secure architectures. Currently completing a dual degree in Multiplatform (DAM) and Web Application Development (DAW). 
