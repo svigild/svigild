@@ -1,45 +1,27 @@
-# Sergio Vigil Diaz    
-## Full Stack Developer | C# and Java | Cybersecurity Specialist                         
-         
-Professional summary:    
-Full Stack Developer with a strong technical background in C# and Java, specialized in Cybersecurity. Experienced in developing multi-platform applications with a focus on code optimization, system auditing, and the implementation of secure architectures. Currently completing a dual degree in Multiplatform (DAM) and Web Application Development (DAW). 
- 
-Education and Certifications:
-- Higher Technician in Web Application Development (DAW) | CIFP La Laboral (In progress)
-- Higher Technician in Multiplatform Application Development (DAM) | IES Juan Jose Calvo
-- Level 3 Professional Certificate in Cybersecurity | ASATA Formacion
-- Technical English: B2 Level
+# Hola, soy Sergio Vigil 👋
 
-Technical Stack:
-- Languages: C#, Java, Python
-- Backend Development: .NET 9, Spring Boot 3.x
-- Frontend Development: Angular, React, Tailwind CSS
-- Databases and Tools: PostgreSQL, MySQL, SQL Server, Docker, Git
-- Cybersecurity: Vulnerability analysis, system auditing, and secure protocol implementation
+**Desarrollador Web Freelance | Especialista SEO Local | Fundador de [VigilDigital](https://vigildigital.es)**
 
-Key Projects:
+Ayudo a pymes y negocios locales a conseguir más clientes a través de internet con páginas web estratégicas, ultrarrápidas y orientadas a la conversión. 
 
-SentinelStack
-A cross-platform security orchestrator designed to bridge system-level auditing with high-level visualization. It utilizes a .NET scanning agent that communicates with a centralized Java Spring Boot API. The project features a real-time dashboard built with Angular and WebSockets to monitor system vulnerabilities.
+### 👨‍💻 Sobre mí
 
-GameHub
-A full-stack social platform developed for video game tournament management. Built using Spring Boot for the backend, Tailwind CSS for the frontend, and MySQL for persistence.
+- 📍 Trabajo desde **Asturias, España**.
+- 🛠️ Me encargo del ciclo completo del proyecto: diseño, desarrollo frontend/backend, optimización de velocidad (WPO) y mantenimiento de servidores.
+- 🎯 Mi filosofía: Cero jerga técnica. Desarrollo soluciones prácticas para que el cliente se centre en vender.
+- 💡 Actualmente aceptando nuevos proyectos de diseño web y tiendas online.
 
-SergiDex
-A Single Page Application (SPA) focused on efficient data management and REST API consumption, developed with Angular.
+### 💻 Stack Tecnológico
 
-Professional Experience:
+- **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS
+- **Backend & CMS:** PHP, WordPress (Desarrollo a medida)
+- **Especialidad:** Rendimiento Web (WPO), SEO Local, Diseño Web Responsive
 
-Nea Master | C# Developer (Internship)
-- Maintenance and development of desktop applications using .NET and C#.
-- SQL query optimization and legacy code refactoring to improve system performance.
-- Collaboration in the integration of management modules.
+### 📫 Dónde encontrarme
 
-Nea Master | Cybersecurity Technician (Internship)
-- Performed system audits and vulnerability assessments.
-- Implemented security protocols and managed incident documentation.
+- 🌐 **Portfolio y Servicios:** [vigildigital.es](https://vigildigital.es)
+- 💼 **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/sergio-vigil-d%C3%ADaz/)
+- ✉️ **Contacto:** [Formulario de la web](https://vigildigital.es/#contacto)
 
-Contact and Links:
-- Email: sergio3vd@gmail.com
-- LinkedIn: linkedin.com/in/sergio-vigil-diaz
-- Portfolio: sergiovigil.netlify.app
+---
+⭐️ *Echa un vistazo a mis repositorios a continuación para ver algo de código, aunque mi mejor trabajo está en producción en las webs de mis clientes.*
