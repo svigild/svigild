@@ -1,12 +1,8 @@
-# Hola, soy Sergio ⚡ 
+# Sergio Vigil Díaz
 
-Desarrollador Web Full Stack. Construyendo productos digitales limpios, rápidos y orientados a resultados. Fundador de **VigilDigital**.
+Técnico Superior en DAM y DAW.
+Estudiante de Ingeniería Informática.
 
-### 🛠 Stack Principal
-- **Frontend:** React, JavaScript, TypeScript, Bootstrap
-- **Backend & Tools:** Node.js, Docker, Git
+💻 Desarrollo de software | 🌐 Web | 🚀 Aprendizaje continuo
 
-### 🚀 Sobre mí
-- 💻 Traduciendo problemas de negocio a soluciones tecnológicas eficientes.
-- 🎯 Filosofía de código: escalable, mantenible y "cero humo".
-- 📫 Conecta conmigo: [LinkedIn](https://www.linkedin.com/in/sergio-vigil-d%C3%ADaz/) | [VigilDigital](https://vigildigital.es)
+📫 Conecta conmigo: [LinkedIn](https://www.linkedin.com/in/sergio-vigil-d%C3%ADaz/) | [VigilDigital](https://vigildigital.es) | [Portfolio](https://sergiovigil.netlify.app/)
