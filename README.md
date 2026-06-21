@@ -1,6 +1,6 @@
 # Sergio Vigil Díaz
 
-Técnico Superior en DAM y DAW.
+Técnico Superior en DAM y DAW. 
 Estudiante de Ingeniería Informática.
 
 💻 Desarrollo de software | 🌐 Web | 🚀 Aprendizaje continuo
