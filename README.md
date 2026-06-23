@@ -1,5 +1,5 @@
 # Sergio Vigil Díaz
-
+ 
 Técnico Superior en DAM y DAW. 
 Estudiante de Ingeniería Informática.
  
